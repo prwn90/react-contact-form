@@ -1,0 +1,23 @@
+body 
+{
+ background: #ac802f;
+ color: snow;
+ letter-spacing: 2px;
+}
+  
+header 
+{
+ margin: 22px;
+ text-align: center;
+}
+  
+.success 
+{
+ color: #1fcf1f;
+}
+  
+.error 
+{
+ color: #801212;
+}
+
